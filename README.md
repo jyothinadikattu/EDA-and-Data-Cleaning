@@ -1,6 +1,7 @@
 # EDA-and-Data-Cleaning
 Description:
 This project focuses on performing Exploratory Data Analysis (EDA) and data cleaning on the Titanic dataset from Kaggle. The main goal is to understand the data structure, identify patterns related to passenger survival, and clean the data for further analysis. Key steps include handling missing values in columns like Age and Embarked, and dropping columns like Cabin with excessive missing data. Visualizations such as survival counts by gender and class, age distribution histograms, and correlation heatmaps help reveal important trends. The dataset is filtered to retain only relevant and numeric features for accurate insights. Tools like Pandas, Matplotlib, and Seaborn are used throughout the process. The cleaned data can later be used to build predictive models for survival classification.
+
 Dataset Link:
 https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 
